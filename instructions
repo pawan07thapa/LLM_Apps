@@ -1,0 +1,4 @@
+conda create -p venv python==3.12.7
+conda activa venv/
+pip install -r requirement.txt      
+pip install ipykernel                                                                            
